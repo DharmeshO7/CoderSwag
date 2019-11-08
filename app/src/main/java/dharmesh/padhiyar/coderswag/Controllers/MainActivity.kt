@@ -1,7 +1,8 @@
-package dharmesh.padhiyar.coderswag
+package dharmesh.padhiyar.coderswag.Controllers
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import dharmesh.padhiyar.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
